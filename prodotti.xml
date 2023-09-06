@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+    <vinile>
+        <nome>Thriller</nome>
+        <autore>Michael Jackson</autore>
+        <prezzo>19.99</prezzo>
+        <rpm>33</rpm>
+    </vinile>
+    <cd>
+        <nome>Thriller</nome>
+        <autore>Michael Jackson</autore>
+        <prezzo>10.99</prezzo>
+        <risc>1</risc>
+    </cd>
+    <vinile>
+        <nome>The Wall</nome>
+        <autore>Pink Floyd</autore>
+        <prezzo>25.99</prezzo>
+        <rpm>45</rpm>
+    </vinile>
+    <cassetta>
+        <nome>The Wall</nome>
+        <autore>Pink Floyd</autore>
+        <prezzo>9.99</prezzo>
+        <tipo>c120</tipo>
+    </cassetta>
+    <cd>
+        <nome>dookie</nome>
+        <autore>Green Day</autore>
+        <prezzo>15.99</prezzo>
+        <risc>0</risc>
+    </cd>
+    <vinile>
+        <nome>dookie</nome>
+        <autore>Green Day</autore>
+        <prezzo>23.99</prezzo>
+        <rpm>33</rpm>
+    </vinile>
+    <vinile>
+        <nome>Back In Black</nome>
+        <autore>AC/DC</autore>
+        <prezzo>28.99</prezzo>
+        <rpm>33</rpm>
+    </vinile>
+    <cd>
+        <nome>The Dark Side of the Moon</nome>
+        <autore>Pink Floyd</autore>
+        <prezzo>11.99</prezzo>
+        <risc>1</risc>
+    </cd>
+    <vinile>
+        <nome>Appetite for Destruction</nome>
+        <autore>Guns N'Roses</autore>
+        <prezzo>17.99</prezzo>
+        <rpm>33</rpm>
+    </vinile>
+    <cd>
+        <nome>American Idiot</nome>
+        <autore>Green Day</autore>
+        <prezzo>10.99</prezzo>
+        <risc>1</risc>
+    </cd>
+    <cassetta>
+        <nome>blink-182</nome>
+        <autore>blink-182</autore>
+        <prezzo>20.99</prezzo>
+        <tipo>c90</tipo>
+    </cassetta>
+    <cassetta>
+        <nome>No need to argue</nome>
+        <autore>The Cranberries</autore>
+        <prezzo>13.99</prezzo>
+        <tipo>c60</tipo>
+    </cassetta>
+</catalogo>
