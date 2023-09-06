@@ -5,3 +5,5 @@ Scritto in C++ con framework Qt.
 
 Una semplice applicazione per la gestione di un negozio di musica (vinili, cd e cassette), è possibile cercare e filtrare i prodotti.
 Se si accede tramite admin (credenziali admin/admin) è possibile aggiungere modificare o eliminare prodotti.
+
+I prodotti e gli utenti vengono letti e salvati su XML.
